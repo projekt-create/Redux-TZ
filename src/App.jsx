@@ -1,9 +1,9 @@
-import React from 'react'
+import Data from './components/Data'
 
 const App = () => {
   return (
-    <div>
-      
+    <div className='flex flex-col min-h-screen bg-gray-200'>
+      <Data />
     </div>
   )
 }

@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Husan",
+      "surname": "Haydarov",
+      "phone": "+998901112233",
+      "email": "husan@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Umar",
+      "surname": "Xayrullaxojayev",
+      "phone": "+998902223344",
+      "email": "umar@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Komila",
+      "surname": "Xamrayeva",
+      "phone": "+998903334455",
+      "email": "komila@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Ali",
+      "surname": "Karimov",
+      "phone": "+998904445566",
+      "email": "ali@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Dilshod",
+      "surname": "Rahmonov",
+      "phone": "+998905556677",
+      "email": "dilshod@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Madina",
+      "surname": "Ismoilova",
+      "phone": "+998906667788",
+      "email": "madina@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Jasur",
+      "surname": "Toshpulatov",
+      "phone": "+998907778899",
+      "email": "jasur@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Aziza",
+      "surname": "Qodirova",
+      "phone": "+998908889900",
+      "email": "aziza@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Bekzod",
+      "surname": "Nazarov",
+      "phone": "+998909990011",
+      "email": "bekzod@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Shahnoza",
+      "surname": "Abdullayeva",
+      "phone": "+998901010101",
+      "email": "shahnoza@gmail.com",
+      "country": "Uzbekistan",
+      "img": "https://randomuser.me/api/portraits/women/10.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
